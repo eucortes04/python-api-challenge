@@ -1,6 +1,7 @@
 # python-api-challenge
 ```diff
--IMPORTANT NOTE: Please be aware that to run ipynb files API keys must be added to each folders respective config.py file 
+-IMPORTANT NOTE: Please be aware that to run ipynb files API keys
+must be added to each folders respective config.py file 
 ```
 
 </h2>
