@@ -4,9 +4,6 @@
 
 ```diff
 - redIMPORTANT NOTE: Please be aware that to run ipynb files properly proper API keys must be added to each folders respective config.py file 
-+ green
-! orange
-# gray
 ```
 
 </h2>
