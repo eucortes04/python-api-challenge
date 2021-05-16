@@ -1,6 +1,6 @@
 # python-api-challenge
 
-IMPORTANT NOTE: Please be aware that to run ipynb files properly proper API keys must be added to each folders respective config.py file
+<span style = "color:red">IMPORTANT NOTE: Please be aware that to run ipynb files properly proper API keys must be added to each folders respective config.py file</span>
 
 ## Part I - WeatherPy
 
